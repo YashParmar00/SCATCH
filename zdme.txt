@@ -1,0 +1,29 @@
+
+
+name: "Backpack"
+price: 1100
+bgcolor: "#F3F8FB"
+panelcolor: "#D3E4EE"
+textcolor: "#48606E"
+
+
+name: "Multipuprpose"
+price: 100
+bgcolor: "#DED0BF"
+panelcolor: "#C5B095"
+textcolor: "#5F4A30"
+
+
+name: "The Daily"
+price: 200
+bgcolor: "#FBFBFB"
+panelcolor: "#EBEBEB"
+textcolor: "#717171"
+
+
+name: "Pink Attack"
+price: 1400
+bgcolor: "#F4E0E1"
+panelcolor: "#E3C4C6"
+textcolor: "#816264"
+
