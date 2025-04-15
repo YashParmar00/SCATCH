@@ -29,8 +29,5 @@ router.get("/addtocart/:productid", isLoggedin, async (req, res) => {
   res.redirect("/shop");
 });
 
-router.get("logout", isLoggedin, (req, res) => {
-    res.render("shop");
-});
 
 module.exports = router;
